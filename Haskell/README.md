@@ -1,5 +1,5 @@
 # Haskell Solutions
-This folder contains solutions which have been implemented in the purely functional programming language, Haskell.
+This folder contains solutions which have been implemented in the purely functional programming language, [Haskell](http://www.haskell.org/haskellwiki/Haskell).
 
 File names follow the pattern p\*.hs, where \* indicates the problem number.
 
