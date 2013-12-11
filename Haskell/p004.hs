@@ -1,3 +1,4 @@
+-- Solution to http://projecteuler.net/problem=4
 solution :: Int
 solution  = maximum [x * y | x <- [999,998..100], y <- [x,x-1..100], palindromic (x*y)]
 

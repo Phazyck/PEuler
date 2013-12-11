@@ -1,3 +1,4 @@
+-- Solution to http://projecteuler.net/problem=3
 solution :: Int
 solution = maximum $ factors 600851475143
 

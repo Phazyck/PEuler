@@ -1,3 +1,4 @@
+-- Solution to http://projecteuler.net/problem=2
 solution :: Int
 solution = sum $ takeWhile (\f -> f <= 4000000) evenFibs
 
